@@ -1,6 +1,6 @@
 .wrapper {
     width: 50%;
-    margin: 0 auto;
+    margin: 10% auto;
     background: #797979ab;
   }
   .calc {
@@ -16,7 +16,7 @@
     background: #c9c9e278;
   }
   #display{
-    width: 100%;
+    width: 97%;
     font-size: 3rem;
     height: 50px;
   }
