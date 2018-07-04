@@ -33,7 +33,7 @@ class Calc extends React.Component {
         return(
             <div className="wrapper">
         <div  className="calc">
-          <textarea className="textarea" id="display" value={this.state.expression} ></textarea>
+          <textarea className="textarea" id="display" value={this.state.expression} readOnly ></textarea>
           <div className="buttons"> 
             <button value="1" className="btn" onClick={this.handleClick}>1</button>
             <button value="2" className="btn" onClick={this.handleClick}>2</button>
