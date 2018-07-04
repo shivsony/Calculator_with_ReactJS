@@ -1,0 +1,31 @@
+.wrapper {
+    width: 50%;
+    margin: 0 auto;
+  }
+  .calc {
+    margin: 0 auto;
+  }
+    .btn {
+      width: 23%;
+      height: 50px;
+      margin: 1%;
+    }
+    #display{
+      width: 100%;
+      font-size: 3rem;
+      height: 50px;
+    }
+    .buttons{
+      display: flex;
+      flex-wrap: wrap;
+    }
+    #AC{
+      width: 48%;
+      height: 50px;
+      margin: 1%;
+    }
+    #back{
+      width: 48%;
+      height: 50px;
+      margin: 1%;
+    }
